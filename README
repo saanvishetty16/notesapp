@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 echo "# notesapp" >> README.md
 git init
 git add README.md
@@ -5,3 +6,6 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/saanvishetty16/notesapp.git
 git push -u origin main
+=======
+#Test file to fix merge
+>>>>>>> 1779946bc61c6d8b26c5753c48be5c0c5ed3aa86
