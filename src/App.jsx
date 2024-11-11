@@ -109,16 +109,16 @@ export default function App() {
             >
               <TextField
                 name="name"
-                placeholder="Note Name"
-                label="Note Name"
+                placeholder="Startup Name"
+                label="Startup Name"
                 labelHidden
                 variation="quiet"
                 required
               />
               <TextField
                 name="description"
-                placeholder="Note Description"
-                label="Note Description"
+                placeholder="Industry"
+                label="Industry"
                 labelHidden
                 variation="quiet"
                 required
